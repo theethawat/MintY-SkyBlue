@@ -15,9 +15,15 @@ with deepskyblue and other shade of skyblue
 With Icons
 ![Screenshot3](ReadmePhoto/Screenshot3.png)
 
+## To Downloading With Out Linux Mint Cinnamon Spice
+Download zip file of this repository  Extract it and go to files/Mint-Y-SkyBlue folder
+* Go to your Linux File System /usr/share/themes
+* Copy Your folder Mint-Y-Skyblue to this folder with root or Administrator Permission that you can access with right click if you using Linux Mint
+* Using Tweak or your linux setting to change the theme
+
 ## For Coding
 
-This Code are in Theme but for icons is in folder Mint-Y-Skyblue-icon
+This Code are in Theme but for icons is in other repository
 
 ## Note
 
