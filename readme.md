@@ -1,5 +1,5 @@
 # Linux Mint-Y SkyBlue Theme
-Make your linux more colorful with sky blue theme that based on Linux Mint Mint-Y Theme on Linux Mint 19.0 Tessa
+Make your linux more colorful with sky blue theme that based on Linux Mint Mint-Y Theme on Linux Mint 19.0 Tara
 Editing from Linux Mint Mint-Y theme on my computer Supporting GTK3.0 GTK2.0. It only Control and Windows boarder the logo is not now.
 
 ## Screenshot
