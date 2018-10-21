@@ -12,7 +12,7 @@ with deepskyblue and other shade of skyblue
 ![Screenshot2](ReadmePhoto/Screenshot2.png)
 
 ## To Downloading
-Download The Zip File Mint-Y-Skyblue at [Mint-Y-Skyblue.zip](Mint-Y-Skyblue.zip)
+Download The Zip File Mint-Y-Skyblue at [Mint-Y-SkyBlue.zip](Mint-Y-SkyBlue.zip)
 Extract file you will get a Mint-Y-Skyblue Folder 
 
 * Go to your Linux File System /usr/share/themes
