@@ -15,20 +15,6 @@ with deepskyblue and other shade of skyblue
 With Icons
 ![Screenshot3](ReadmePhoto/Screenshot3.png)
 
-## To Downloading
-
-Download The Zip File Mint-Y-Skyblue Theme at [Mint-Y-SkyBlue.zip](Mint-Y-SkyBlue.zip) (No-Icon)
-Extract file you will get a Mint-Y-Skyblue Folder
-
-* Go to your Linux File System /usr/share/themes
-* Copy Your folder Mint-Y-Skyblue to this folder with root or Administrator Permission that you can access with right click if you using Linux Mint
-
-Download The Zip File Mint-Y-Skyblue Icons at [Mint-Y-SkyBlue Icon.zip](Mint-Y-SkyBlue-Icon.zip)
-Extract file you will get a Mint-Y-Skyblue-Icon Folder
-
-* Go to your Linux File System /usr/share/icons
-* Copy Your folder Mint-Y-Skyblue to this folder with root or Administrator Permission that you can access with right click if you using Linux Mint
-
 ## For Coding
 
 This Code are in Theme but for icons is in folder Mint-Y-Skyblue-icon
