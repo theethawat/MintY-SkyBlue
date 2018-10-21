@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Mint-Y-SkyBlue
+Comment=A flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Mint-Y-SkyBlue
+MetacityTheme=Mint-Y-SkyBlue
+IconTheme=Mint-Y-SkyBlue
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
